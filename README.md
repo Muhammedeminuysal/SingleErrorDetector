@@ -52,3 +52,9 @@ Projenin çalışması için bilgisayarınızda **Python 3.x** kurulu olması ye
 
 ```bash
 python main.py
+
+```
+## Proje Video Linki
+
+https://www.youtube.com/watch?v=XUJSXCt93nk&t=2s
+
