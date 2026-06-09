@@ -8,6 +8,11 @@ Uygulama, veriye eklenen matematiksel kontrol bitleri sayesinde **tek bit hatala
 
 ## 🎨 Ekran Görüntüleri & Arayüz Renk Şeması
 
+<img width="1920" height="1080" alt="Ekran görüntüsü 2026-06-09 155858" src="https://github.com/user-attachments/assets/9870dcd4-2238-4976-9817-f1adaa9425c4" />
+<img width="1920" height="1080" alt="Ekran görüntüsü 2026-06-09 155910" src="https://github.com/user-attachments/assets/e29f8e48-2998-4e5e-9895-fb3b0d0ab0cb" />
+<img width="1920" height="1080" alt="Ekran görüntüsü 2026-06-09 155919" src="https://github.com/user-attachments/assets/095fdd1e-f64b-4d80-87b8-bb5f12bc6338" />
+
+
 Uygulamanın sağ paneli, modern ve gözü yormayan **Buz Mavisi (`#e6f0fa`)** temasına sahiptir. Bit şeridindeki her bir kutu, projedeki görevine göre özel olarak renklendirilmiştir:
 
 * 🔵 **Mavi (Veri Biti):** Kullanıcının simüle etmek için girdiği orijinal binary verinin bitleridir.
