@@ -1,4 +1,4 @@
-# 🛠️ Hamming SEC-DED (Single Error Correction - Double Error Detection) Simülatörü
+# 🛠️ Hamming SEC (Single Error Correction) Simülatörü
 
 Bu proje, veri iletimi sırasında oluşabilecek hataları tespit etmek ve onarmak için kullanılan klasik **Hamming Kodu** algoritmasını modern bir grafik arayüz (Tkinter) ile görselleştiren interaktif bir simülasyon aracıdır. 
 
